@@ -1,1 +1,6 @@
 /.lake
+/Norman-Formalized-Voting-Lean3
+/FormalizedVoting/_draft.lean
+FormalizedVoting/*
+!FormalizedVoting/main.lean
+!FormalizedVoting/cycles.lean
